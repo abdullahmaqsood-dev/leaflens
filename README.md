@@ -1,4 +1,3 @@
-```markdown
 # 🌿 LeafLens: Plant Disease Detection System
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -74,7 +73,7 @@ After training for 15 epochs using the Adam optimizer and Categorical Crossentro
 * **Validation Accuracy:** ~92%
 * **Loss:** Converged smoothly without severe overfitting thanks to Dropout regularization.
 
-*(Optional: Add screenshots of your Matplotlib accuracy/loss graphs here)*
+*https://github.com/abdullahmaqsood-dev/leaflens/blob/main/outputs/*
 
 ---
 
