@@ -47,10 +47,7 @@ leaflens/
 │   ├── model.py
 │   ├── train.py
 |
-├── app/
-│   ├── app.py
-|
-└── requirements.txt
+└── app.py
 
 ```
 
